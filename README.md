@@ -24,7 +24,7 @@
 
 ```
 сотрудник_id, primary key, smallserial
-ФИО varchar (50);
+ФИО, varchar(50);
 Дата_найма, mediumint
 оклад_id, foreign key, tinyint
 структурное_подразделение_id, foreign key, tinyint
